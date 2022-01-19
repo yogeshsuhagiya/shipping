@@ -1,4 +1,4 @@
-# Magento 2 - COD Payment [Yogesh Suhagiya](https://github.com/yogeshsuhagiya)
+# Magento 2 - Custom Shipping [Yogesh Suhagiya](https://github.com/yogeshsuhagiya)
 - Settings for whether it should show custom shipping method or not.
 - Goto: STORES > Configuration > SALES > Delivery Methods > YS Shipping Module
 - Add different rates for India, USA and for other countries.
